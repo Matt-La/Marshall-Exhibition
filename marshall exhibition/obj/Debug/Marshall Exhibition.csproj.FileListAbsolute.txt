@@ -1,0 +1,5 @@
+C:\Users\Matt\Dropbox\Marshall Exhibition\Marshall Exhibition\bin\Marshall Exhibition.dll
+C:\Users\Matt\Dropbox\Marshall Exhibition\Marshall Exhibition\bin\Marshall Exhibition.pdb
+C:\Users\Matt\Dropbox\Marshall Exhibition\Marshall Exhibition\obj\Debug\Marshall Exhibition.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Dropbox\Marshall Exhibition\Marshall Exhibition\obj\Debug\Marshall Exhibition.dll
+C:\Users\Matt\Dropbox\Marshall Exhibition\Marshall Exhibition\obj\Debug\Marshall Exhibition.pdb
